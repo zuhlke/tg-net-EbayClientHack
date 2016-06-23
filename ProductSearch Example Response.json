@@ -1,0 +1,682 @@
+{
+  "Timestamp": "2016-06-23T08:36:56.857Z",
+  "Ack": "Success",
+  "Build": "E957_CORE_APILW2_17891526_R1",
+  "Version": "957",
+  "ApproximatePages": 1,
+  "MoreResults": false,
+  "ItemArray": {
+    "Item": [
+      {
+        "BestOfferEnabled": false,
+        "ItemID": "110095651075",
+        "EndTime": "2016-06-24T13:34:51.000Z",
+        "StartTime": "2012-01-17T13:29:51.000Z",
+        "ViewItemURLForNaturalSearch": "http://cgi.sandbox.ebay.com/new-upc-item-/110095651075",
+        "ListingType": "FixedPriceItem",
+        "PaymentMethods": [ "PayPal" ],
+        "PostalCode": "95125",
+        "PrimaryCategoryID": "617",
+        "PrimaryCategoryName": "DVDs & Movies:DVDs & Blu-ray Discs",
+        "BidCount": 2,
+        "ConvertedCurrentPrice": {
+          "Value": 100.0,
+          "CurrencyID": "USD"
+        },
+        "CurrentPrice": {
+          "Value": 100.0,
+          "CurrencyID": "USD"
+        },
+        "ListingStatus": "Active",
+        "ShipToLocations": [ "US" ],
+        "Site": "US",
+        "TimeLeft": "P1DT4H57M55S",
+        "Title": "new_upc_item",
+        "ShippingCostSummary": {
+          "ShippingServiceCost": {
+            "Value": 1.0,
+            "CurrencyID": "USD"
+          },
+          "ShippingType": "Flat",
+          "ListedShippingServiceCost": {
+            "Value": 1.0,
+            "CurrencyID": "USD"
+          }
+        },
+        "Country": "US",
+        "ProductID": {
+          "Value": "110258144",
+          "Type": "Reference"
+        },
+        "PaymentAllowedSite": [ ],
+        "IntegratedMerchantCreditCardEnabled": false,
+        "NewBestOffer": false
+      },
+      {
+        "BestOfferEnabled": false,
+        "ItemID": "110095651599",
+        "EndTime": "2016-06-24T14:07:58.000Z",
+        "StartTime": "2012-01-17T14:02:58.000Z",
+        "ViewItemURLForNaturalSearch": "http://cgi.sandbox.ebay.com/new-upc-itemmM-/110095651599",
+        "ListingType": "FixedPriceItem",
+        "PaymentMethods": [ "PayPal" ],
+        "PostalCode": "95125",
+        "PrimaryCategoryID": "617",
+        "PrimaryCategoryName": "DVDs & Movies:DVDs & Blu-ray Discs",
+        "BidCount": 0,
+        "ConvertedCurrentPrice": {
+          "Value": 100.0,
+          "CurrencyID": "USD"
+        },
+        "CurrentPrice": {
+          "Value": 100.0,
+          "CurrencyID": "USD"
+        },
+        "ListingStatus": "Active",
+        "ShipToLocations": [ "US" ],
+        "Site": "US",
+        "TimeLeft": "P1DT5H31M2S",
+        "Title": "new_upc_itemmM",
+        "ShippingCostSummary": {
+          "ShippingServiceCost": {
+            "Value": 1.0,
+            "CurrencyID": "USD"
+          },
+          "ShippingType": "Flat",
+          "ListedShippingServiceCost": {
+            "Value": 1.0,
+            "CurrencyID": "USD"
+          }
+        },
+        "Country": "US",
+        "ProductID": {
+          "Value": "110258144",
+          "Type": "Reference"
+        },
+        "PaymentAllowedSite": [ ],
+        "IntegratedMerchantCreditCardEnabled": false,
+        "NewBestOffer": false
+      },
+      {
+        "BestOfferEnabled": false,
+        "ItemID": "110095651632",
+        "EndTime": "2016-06-24T14:13:59.000Z",
+        "StartTime": "2012-01-17T14:08:59.000Z",
+        "ViewItemURLForNaturalSearch": "http://cgi.sandbox.ebay.com/new-upc-itemmMM-/110095651632",
+        "ListingType": "FixedPriceItem",
+        "PaymentMethods": [ "PayPal" ],
+        "PostalCode": "95125",
+        "PrimaryCategoryID": "617",
+        "PrimaryCategoryName": "DVDs & Movies:DVDs & Blu-ray Discs",
+        "BidCount": 0,
+        "ConvertedCurrentPrice": {
+          "Value": 100.0,
+          "CurrencyID": "USD"
+        },
+        "CurrentPrice": {
+          "Value": 100.0,
+          "CurrencyID": "USD"
+        },
+        "ListingStatus": "Active",
+        "ShipToLocations": [ "US" ],
+        "Site": "US",
+        "TimeLeft": "P1DT5H37M3S",
+        "Title": "new_upc_itemmMM",
+        "ShippingCostSummary": {
+          "ShippingServiceCost": {
+            "Value": 1.0,
+            "CurrencyID": "USD"
+          },
+          "ShippingType": "Flat",
+          "ListedShippingServiceCost": {
+            "Value": 1.0,
+            "CurrencyID": "USD"
+          }
+        },
+        "Country": "US",
+        "ProductID": {
+          "Value": "110258144",
+          "Type": "Reference"
+        },
+        "PaymentAllowedSite": [ ],
+        "IntegratedMerchantCreditCardEnabled": false,
+        "NewBestOffer": false
+      },
+      {
+        "BestOfferEnabled": false,
+        "ItemID": "110171428419",
+        "EndTime": "2016-06-29T19:20:52.000Z",
+        "StartTime": "2015-12-02T19:15:52.000Z",
+        "ViewItemURLForNaturalSearch": "http://cgi.sandbox.ebay.com/NEW-Harry-Potter-Complete-8-Film-Collection-DVDs-/110171428419",
+        "ListingType": "FixedPriceItem",
+        "PaymentMethods": [ "PayPal" ],
+        "PostalCode": "20706",
+        "PrimaryCategoryID": "617",
+        "PrimaryCategoryName": "DVDs & Movies:DVDs & Blu-ray Discs",
+        "BidCount": 0,
+        "ConvertedCurrentPrice": {
+          "Value": 32.79,
+          "CurrencyID": "USD"
+        },
+        "CurrentPrice": {
+          "Value": 32.79,
+          "CurrencyID": "USD"
+        },
+        "ListingStatus": "Active",
+        "ShipToLocations": [ "AU", "Americas", "Europe", "Asia" ],
+        "Site": "US",
+        "TimeLeft": "P6DT10H43M56S",
+        "Title": "NEW Harry Potter: The Complete 8-Film Collection DVDs",
+        "ShippingCostSummary": {
+          "ShippingServiceCost": {
+            "Value": 0.0,
+            "CurrencyID": "USD"
+          },
+          "ShippingType": "Flat",
+          "ListedShippingServiceCost": {
+            "Value": 0.0,
+            "CurrencyID": "USD"
+          }
+        },
+        "Country": "US",
+        "ProductID": {
+          "Value": "110258144",
+          "Type": "Reference"
+        },
+        "PaymentAllowedSite": [ ],
+        "IntegratedMerchantCreditCardEnabled": false,
+        "NewBestOffer": false
+      },
+      {
+        "BestOfferEnabled": false,
+        "ItemID": "110133218358",
+        "EndTime": "2016-07-04T23:02:12.000Z",
+        "StartTime": "2013-12-17T22:57:12.000Z",
+        "ViewItemURLForNaturalSearch": "http://cgi.sandbox.ebay.com/Harry-Potter-Complete-Collection-Years-1-7-DVD-STANDARD-Region-1-Brand-Ne-/110133218358",
+        "ListingType": "FixedPriceItem",
+        "PaymentMethods": [ "PayPal" ],
+        "PostalCode": "",
+        "PrimaryCategoryID": "617",
+        "PrimaryCategoryName": "DVDs & Movies:DVDs & Blu-ray Discs",
+        "BidCount": 0,
+        "ConvertedCurrentPrice": {
+          "Value": 82.76,
+          "CurrencyID": "USD"
+        },
+        "CurrentPrice": {
+          "Value": 82.76,
+          "CurrencyID": "USD"
+        },
+        "ListingStatus": "Active",
+        "ShipToLocations": [ "US" ],
+        "Site": "US",
+        "TimeLeft": "P11DT14H25M16S",
+        "Title": "Harry Potter: the Complete Collection Years 1-7 - DVD-STANDARD Region 1 Brand Ne",
+        "ShippingCostSummary": {
+          "ShippingServiceCost": {
+            "Value": 0.0,
+            "CurrencyID": "USD"
+          },
+          "ShippingType": "Flat",
+          "ListedShippingServiceCost": {
+            "Value": 0.0,
+            "CurrencyID": "USD"
+          }
+        },
+        "Country": "US",
+        "ProductID": {
+          "Value": "110258144",
+          "Type": "Reference"
+        },
+        "PaymentAllowedSite": [ ],
+        "IntegratedMerchantCreditCardEnabled": false,
+        "NewBestOffer": false
+      },
+      {
+        "BestOfferEnabled": false,
+        "ItemID": "110178077084",
+        "EndTime": "2016-07-08T07:01:32.000Z",
+        "StartTime": "2016-05-09T06:56:32.000Z",
+        "ViewItemURLForNaturalSearch": "http://cgi.sandbox.ebay.com/Harry-Potter-Complete-8-Film-Collection-DVD-2011-8-Disc-Set-/110178077084",
+        "ListingType": "FixedPriceItem",
+        "PaymentMethods": [ "PayPal" ],
+        "PostalCode": "",
+        "PrimaryCategoryID": "617",
+        "PrimaryCategoryName": "DVDs & Movies:DVDs & Blu-ray Discs",
+        "BidCount": 44,
+        "ConvertedCurrentPrice": {
+          "Value": 56.87,
+          "CurrencyID": "USD"
+        },
+        "CurrentPrice": {
+          "Value": 56.87,
+          "CurrencyID": "USD"
+        },
+        "ListingStatus": "Active",
+        "ShipToLocations": [ "Worldwide" ],
+        "Site": "US",
+        "TimeLeft": "P14DT22H24M36S",
+        "Title": "Harry Potter: Complete 8-Film Collection (DVD, 2011, 8-Disc Set)",
+        "ShippingCostSummary": {
+          "ShippingServiceCost": {
+            "Value": 0.0,
+            "CurrencyID": "USD"
+          },
+          "ShippingType": "Flat",
+          "ListedShippingServiceCost": {
+            "Value": 0.0,
+            "CurrencyID": "USD"
+          }
+        },
+        "Subtitle": "Sold directly by Barnes & Noble",
+        "Country": "US",
+        "ProductID": {
+          "Value": "110258144",
+          "Type": "Reference"
+        },
+        "PaymentAllowedSite": [ ],
+        "IntegratedMerchantCreditCardEnabled": false,
+        "NewBestOffer": false
+      },
+      {
+        "BestOfferEnabled": false,
+        "ItemID": "110147714878",
+        "EndTime": "2016-07-17T11:22:49.000Z",
+        "StartTime": "2014-08-27T11:17:49.000Z",
+        "ViewItemURLForNaturalSearch": "http://cgi.sandbox.ebay.com/TRUWIRE-Samsung-Galaxy-Note-3-Cable-USB-3-0-Data-Sync-Charging-Cable-fo-/110147714878",
+        "ListingType": "FixedPriceItem",
+        "PaymentMethods": [ "VisaMC" ],
+        "PostalCode": "10013",
+        "PrimaryCategoryID": "617",
+        "PrimaryCategoryName": "DVDs & Movies:DVDs & Blu-ray Discs",
+        "BidCount": 0,
+        "ConvertedCurrentPrice": {
+          "Value": 8.99,
+          "CurrencyID": "USD"
+        },
+        "CurrentPrice": {
+          "Value": 8.99,
+          "CurrencyID": "USD"
+        },
+        "ListingStatus": "Active",
+        "ShipToLocations": [ "US" ],
+        "Site": "US",
+        "TimeLeft": "P24DT2H45M53S",
+        "Title": "TRUWIRE? Samsung Galaxy Note 3 Cable USB 3.0 Data Sync & Charging Cable fo",
+        "ShippingCostSummary": {
+          "ShippingServiceCost": {
+            "Value": 2.5,
+            "CurrencyID": "USD"
+          },
+          "ShippingType": "Flat",
+          "ListedShippingServiceCost": {
+            "Value": 2.5,
+            "CurrencyID": "USD"
+          }
+        },
+        "Country": "US",
+        "ProductID": {
+          "Value": "110258144",
+          "Type": "Reference"
+        },
+        "PaymentAllowedSite": [ ],
+        "IntegratedMerchantCreditCardEnabled": false,
+        "NewBestOffer": false
+      },
+      {
+        "BestOfferEnabled": false,
+        "ItemID": "110147719160",
+        "EndTime": "2016-07-17T12:02:54.000Z",
+        "StartTime": "2014-08-27T11:57:54.000Z",
+        "ViewItemURLForNaturalSearch": "http://cgi.sandbox.ebay.com/TRUWIRE-Samsung-Galaxy-Note-3-Cable-USB-3-0-Data-Sync-Charging-Cable-fo-/110147719160",
+        "ListingType": "FixedPriceItem",
+        "PaymentMethods": [ "VisaMC" ],
+        "PostalCode": "10013",
+        "PrimaryCategoryID": "617",
+        "PrimaryCategoryName": "DVDs & Movies:DVDs & Blu-ray Discs",
+        "BidCount": 0,
+        "ConvertedCurrentPrice": {
+          "Value": 8.99,
+          "CurrencyID": "USD"
+        },
+        "CurrentPrice": {
+          "Value": 8.99,
+          "CurrencyID": "USD"
+        },
+        "ListingStatus": "Active",
+        "ShipToLocations": [ "US" ],
+        "Site": "US",
+        "TimeLeft": "P24DT3H25M58S",
+        "Title": "TRUWIRE? Samsung Galaxy Note 3 Cable USB 3.0 Data Sync & Charging Cable fo",
+        "ShippingCostSummary": {
+          "ShippingServiceCost": {
+            "Value": 2.5,
+            "CurrencyID": "USD"
+          },
+          "ShippingType": "Flat",
+          "ListedShippingServiceCost": {
+            "Value": 2.5,
+            "CurrencyID": "USD"
+          }
+        },
+        "Country": "US",
+        "ProductID": {
+          "Value": "110258144",
+          "Type": "Reference"
+        },
+        "PaymentAllowedSite": [ ],
+        "IntegratedMerchantCreditCardEnabled": false,
+        "NewBestOffer": false
+      },
+      {
+        "BestOfferEnabled": false,
+        "ItemID": "110147727032",
+        "EndTime": "2016-07-17T13:04:38.000Z",
+        "StartTime": "2014-08-27T12:59:38.000Z",
+        "ViewItemURLForNaturalSearch": "http://cgi.sandbox.ebay.com/TRUWIRE-kjsdjkmnjk-jksdkj-jk-/110147727032",
+        "ListingType": "FixedPriceItem",
+        "PaymentMethods": [ "VisaMC" ],
+        "PostalCode": "10013",
+        "PrimaryCategoryID": "617",
+        "PrimaryCategoryName": "DVDs & Movies:DVDs & Blu-ray Discs",
+        "BidCount": 0,
+        "ConvertedCurrentPrice": {
+          "Value": 8.99,
+          "CurrencyID": "USD"
+        },
+        "CurrentPrice": {
+          "Value": 8.99,
+          "CurrencyID": "USD"
+        },
+        "ListingStatus": "Active",
+        "ShipToLocations": [ "US" ],
+        "Site": "US",
+        "TimeLeft": "P24DT4H27M42S",
+        "Title": "TRUWIRE? kjsdjkmnjk jksdkj jk",
+        "ShippingCostSummary": {
+          "ShippingServiceCost": {
+            "Value": 2.5,
+            "CurrencyID": "USD"
+          },
+          "ShippingType": "Flat",
+          "ListedShippingServiceCost": {
+            "Value": 2.5,
+            "CurrencyID": "USD"
+          }
+        },
+        "Country": "US",
+        "ProductID": {
+          "Value": "110258144",
+          "Type": "Reference"
+        },
+        "PaymentAllowedSite": [ ],
+        "IntegratedMerchantCreditCardEnabled": false,
+        "NewBestOffer": false
+      },
+      {
+        "BestOfferEnabled": false,
+        "ItemID": "110147727072",
+        "EndTime": "2016-07-17T13:07:38.000Z",
+        "StartTime": "2014-08-27T13:02:38.000Z",
+        "ViewItemURLForNaturalSearch": "http://cgi.sandbox.ebay.com/TRUWIRE-USB-data-cable-samsung-galaxy-note-/110147727072",
+        "ListingType": "FixedPriceItem",
+        "PaymentMethods": [ "VisaMC" ],
+        "PostalCode": "10013",
+        "PrimaryCategoryID": "617",
+        "PrimaryCategoryName": "DVDs & Movies:DVDs & Blu-ray Discs",
+        "BidCount": 0,
+        "ConvertedCurrentPrice": {
+          "Value": 8.99,
+          "CurrencyID": "USD"
+        },
+        "CurrentPrice": {
+          "Value": 8.99,
+          "CurrencyID": "USD"
+        },
+        "ListingStatus": "Active",
+        "ShipToLocations": [ "US" ],
+        "Site": "US",
+        "TimeLeft": "P24DT4H30M42S",
+        "Title": "TRUWIRE USB data cable for samsung galaxy note",
+        "ShippingCostSummary": {
+          "ShippingServiceCost": {
+            "Value": 2.5,
+            "CurrencyID": "USD"
+          },
+          "ShippingType": "Flat",
+          "ListedShippingServiceCost": {
+            "Value": 2.5,
+            "CurrencyID": "USD"
+          }
+        },
+        "Country": "US",
+        "ProductID": {
+          "Value": "110258144",
+          "Type": "Reference"
+        },
+        "PaymentAllowedSite": [ ],
+        "IntegratedMerchantCreditCardEnabled": false,
+        "NewBestOffer": false
+      },
+      {
+        "BestOfferEnabled": false,
+        "ItemID": "110147727118",
+        "EndTime": "2016-07-17T13:09:25.000Z",
+        "StartTime": "2014-08-27T13:04:25.000Z",
+        "ViewItemURLForNaturalSearch": "http://cgi.sandbox.ebay.com/TRUWIRE-USB-data-cable-samsung-galaxy-note-/110147727118",
+        "ListingType": "FixedPriceItem",
+        "PaymentMethods": [ "VisaMC" ],
+        "PostalCode": "10013",
+        "PrimaryCategoryID": "617",
+        "PrimaryCategoryName": "DVDs & Movies:DVDs & Blu-ray Discs",
+        "BidCount": 0,
+        "ConvertedCurrentPrice": {
+          "Value": 8.99,
+          "CurrencyID": "USD"
+        },
+        "CurrentPrice": {
+          "Value": 8.99,
+          "CurrencyID": "USD"
+        },
+        "ListingStatus": "Active",
+        "ShipToLocations": [ "US" ],
+        "Site": "US",
+        "TimeLeft": "P24DT4H32M29S",
+        "Title": "TRUWIRE USB data cable for samsung galaxy note",
+        "ShippingCostSummary": {
+          "ShippingServiceCost": {
+            "Value": 2.5,
+            "CurrencyID": "USD"
+          },
+          "ShippingType": "Flat",
+          "ListedShippingServiceCost": {
+            "Value": 2.5,
+            "CurrencyID": "USD"
+          }
+        },
+        "Country": "US",
+        "ProductID": {
+          "Value": "110258144",
+          "Type": "Reference"
+        },
+        "PaymentAllowedSite": [ ],
+        "IntegratedMerchantCreditCardEnabled": false,
+        "NewBestOffer": false
+      },
+      {
+        "BestOfferEnabled": false,
+        "ItemID": "110147727122",
+        "EndTime": "2016-07-17T13:10:20.000Z",
+        "StartTime": "2014-08-27T13:05:20.000Z",
+        "ViewItemURLForNaturalSearch": "http://cgi.sandbox.ebay.com/TRUWIRE-USB-data-cable-samsung-galaxy-note-/110147727122",
+        "ListingType": "FixedPriceItem",
+        "PaymentMethods": [ "VisaMC" ],
+        "PostalCode": "10013",
+        "PrimaryCategoryID": "617",
+        "PrimaryCategoryName": "DVDs & Movies:DVDs & Blu-ray Discs",
+        "BidCount": 0,
+        "ConvertedCurrentPrice": {
+          "Value": 8.99,
+          "CurrencyID": "USD"
+        },
+        "CurrentPrice": {
+          "Value": 8.99,
+          "CurrencyID": "USD"
+        },
+        "ListingStatus": "Active",
+        "ShipToLocations": [ "US" ],
+        "Site": "US",
+        "TimeLeft": "P24DT4H33M24S",
+        "Title": "TRUWIRE USB data cable for samsung galaxy note",
+        "ShippingCostSummary": {
+          "ShippingServiceCost": {
+            "Value": 2.5,
+            "CurrencyID": "USD"
+          },
+          "ShippingType": "Flat",
+          "ListedShippingServiceCost": {
+            "Value": 2.5,
+            "CurrencyID": "USD"
+          }
+        },
+        "Country": "US",
+        "ProductID": {
+          "Value": "110258144",
+          "Type": "Reference"
+        },
+        "PaymentAllowedSite": [ ],
+        "IntegratedMerchantCreditCardEnabled": false,
+        "NewBestOffer": false
+      },
+      {
+        "BestOfferEnabled": false,
+        "ItemID": "110147730996",
+        "EndTime": "2016-07-17T13:24:33.000Z",
+        "StartTime": "2014-08-27T13:19:33.000Z",
+        "ViewItemURLForNaturalSearch": "http://cgi.sandbox.ebay.com/TRUWIRE-USB-data-cable-samsung-galaxy-note-/110147730996",
+        "ListingType": "FixedPriceItem",
+        "PaymentMethods": [ "VisaMC" ],
+        "PostalCode": "10013",
+        "PrimaryCategoryID": "617",
+        "PrimaryCategoryName": "DVDs & Movies:DVDs & Blu-ray Discs",
+        "BidCount": 0,
+        "ConvertedCurrentPrice": {
+          "Value": 8.99,
+          "CurrencyID": "USD"
+        },
+        "CurrentPrice": {
+          "Value": 8.99,
+          "CurrencyID": "USD"
+        },
+        "ListingStatus": "Active",
+        "ShipToLocations": [ "US" ],
+        "Site": "US",
+        "TimeLeft": "P24DT4H47M37S",
+        "Title": "TRUWIRE USB data cable for samsung galaxy note",
+        "ShippingCostSummary": {
+          "ShippingServiceCost": {
+            "Value": 2.5,
+            "CurrencyID": "USD"
+          },
+          "ShippingType": "Flat",
+          "ListedShippingServiceCost": {
+            "Value": 2.5,
+            "CurrencyID": "USD"
+          }
+        },
+        "Country": "US",
+        "ProductID": {
+          "Value": "110258144",
+          "Type": "Reference"
+        },
+        "PaymentAllowedSite": [ ],
+        "IntegratedMerchantCreditCardEnabled": false,
+        "NewBestOffer": false
+      },
+      {
+        "BestOfferEnabled": false,
+        "ItemID": "110148675385",
+        "EndTime": "2016-07-21T14:42:52.000Z",
+        "StartTime": "2014-08-31T14:37:52.000Z",
+        "ViewItemURLForNaturalSearch": "http://cgi.sandbox.ebay.com/Harry-Potter-Years-1-7-2011-New-Dvd-/110148675385",
+        "ListingType": "FixedPriceItem",
+        "PaymentMethods": [ "PayPal" ],
+        "PostalCode": "",
+        "PrimaryCategoryID": "617",
+        "PrimaryCategoryName": "DVDs & Movies:DVDs & Blu-ray Discs",
+        "BidCount": 0,
+        "ConvertedCurrentPrice": {
+          "Value": 44.68,
+          "CurrencyID": "USD"
+        },
+        "CurrentPrice": {
+          "Value": 44.68,
+          "CurrencyID": "USD"
+        },
+        "ListingStatus": "Active",
+        "ShipToLocations": [ "US" ],
+        "Site": "US",
+        "TimeLeft": "P28DT6H5M56S",
+        "Title": "Harry Potter Years 1-7 (2011) - New - Dvd",
+        "ShippingCostSummary": {
+          "ShippingServiceCost": {
+            "Value": 2.98,
+            "CurrencyID": "USD"
+          },
+          "ShippingType": "Flat",
+          "ListedShippingServiceCost": {
+            "Value": 2.98,
+            "CurrencyID": "USD"
+          }
+        },
+        "Country": "US",
+        "ProductID": {
+          "Value": "110258144",
+          "Type": "Reference"
+        },
+        "PaymentAllowedSite": [ ],
+        "IntegratedMerchantCreditCardEnabled": false,
+        "NewBestOffer": false
+      }
+    ]
+  },
+  "PageNumber": 1,
+  "Product": [
+    {
+      "DomainName": "DVDs",
+      "DetailsURL": "http://syicatalogs.sandbox.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&IncludeAttributes=1&ShowAttributesTable=1&ProductMementoString=125174:2:1049:4276619924:804365794:ecba159499b2d5a7769a3990aa7af455:1:1:1:5000000672733",
+      "DisplayStockPhotos": true,
+      "ProductID": [
+        {
+          "Value": "110258144",
+          "Type": "Reference"
+        },
+        {
+          "Value": "883929182879",
+          "Type": "UPC"
+        }
+      ],
+      "ItemCount": 14,
+      "ItemSpecifics": {
+        "NameValueList": [
+          {
+            "Name": "Movie Rating",
+            "Value": [ "PG-13 (MPAA)" ]
+          },
+          {
+            "Name": "Work Name",
+            "Value": [ "Harry Potter: Complete 8-Film Collection" ]
+          },
+          {
+            "Name": "Format",
+            "Value": [ "DVD" ]
+          }
+        ]
+      },
+      "ReviewCount": 651,
+      "StockPhotoURL": "http://i.ebayimg.com/00/$(KGrHqV,!g0E6ZCwQ)wpBOuWbUNB,g~~_6.JPG?set_id=89040003C1",
+      "Title": "Harry Potter: Complete 8-Film Collection (DVD, 2011, 8-Disc Set)"
+    }
+  ],
+  "TotalProducts": 1
+}
